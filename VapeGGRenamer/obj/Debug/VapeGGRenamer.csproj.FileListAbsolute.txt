@@ -1,0 +1,13 @@
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.csproj.AssemblyReference.cache
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.Form.resources
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.Properties.Resources.resources
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.csproj.GenerateResource.cache
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.csproj.CoreCompileInputs.cache
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.csproj.CopyComplete
+D:\VapeGGRenamer\VapeGGRenamer\bin\Debug\ImageManager.exe.config
+D:\VapeGGRenamer\VapeGGRenamer\bin\Debug\ImageManager.exe
+D:\VapeGGRenamer\VapeGGRenamer\bin\Debug\ImageManager.pdb
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\ImageManager.exe
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\ImageManager.pdb
+D:\VapeGGRenamer\VapeGGRenamer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VapeGGRenamer\VapeGGRenamer\obj\Debug\VapeGGRenamer.csproj.Fody.CopyLocal.cache
